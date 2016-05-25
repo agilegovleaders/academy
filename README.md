@@ -1,2 +1,2 @@
-# academy
-Open feedback for the AGL Academy
+# AGL Academy feedback
+Open feedback for the [AGL Academy](http://agilegovleaders.org/academy)
